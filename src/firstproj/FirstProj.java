@@ -14,7 +14,7 @@ public class FirstProj {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hellotest World");
         Scanner in = new Scanner(System.in);
         String word = in.next();
         char[] reverse = new char[word.length()];
